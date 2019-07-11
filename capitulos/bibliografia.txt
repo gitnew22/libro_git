@@ -1,1 +1,3 @@
 chacon, s. and straub, b. pro git. apress.
+loeliger, j.and mccullough, m. version control with git. o`reilly.
+ryan hodson.ri`s git tutorial.smashwords (2014)
